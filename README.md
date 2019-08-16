@@ -5,11 +5,17 @@ Una linked list tiene comunmente dos componentes que son:
 * lista cabeceras
 * lista nodos
 ![enter image description here](https://lh3.googleusercontent.com/KYit6g8u3yn18HBMOmpCNcBz4W1vuxpyL2zaARLeQ1oP8P3FvjGrVLJVEvLOVTLrqeljY-brWks)
+
 Operaciones que tiene y complejidades:
+
+
 ![enter image description here](https://lh3.googleusercontent.com/9t2Nvez_WibFOXO53eRPDKCTmNs3SLhDPSK2X0dkxYp7s97azAw0FRbxfL2u0asK6IEORLU78G8)
 ## Definiciòn y formulas:
 **Media**: es obtener el promedio de un cojunto de datos 
+
 **Desviación estándar**:es una medida de la propagación o dispersión de un conjunto de datos.
+
+
 ![enter image description here](https://lh3.googleusercontent.com/xtXwfC4G6t-pe8tMi8WYozD8LtUlxoioX8Zl32d4VI-Ji_BzXTMHa-kxaCp7v5mYTabVuo-FWLE)
 
 
