@@ -92,6 +92,6 @@ en cada una de ellas ejecutamos la aplicacion de un grupo de datos y se realiza 
 
 ## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
 
 
